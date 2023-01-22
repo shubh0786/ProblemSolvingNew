@@ -7,4 +7,4 @@ Console.WriteLine("Write the width");
 int wid = int.Parse(Console.ReadLine());
 
 
-Console.WriteLine("");
+Console.WriteLine("This Your Number: {0}", num);

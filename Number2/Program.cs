@@ -6,6 +6,13 @@ int num = int.Parse(Console.ReadLine());
 Console.WriteLine("Write the width");
 int wid = int.Parse(Console.ReadLine());
 
+for (int i = 1; i <= wid; i++)
+{
+    for (int j = 1; j <= i; j++)
+    {
+        Console.Write(num + " ");
+    }
+    Console.WriteLine();
+    Console.ReadLine();
+}
 
-Console.WriteLine("This Your Number: {0}", num);
-Console.ReadLine();

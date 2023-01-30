@@ -8,3 +8,4 @@ int wid = int.Parse(Console.ReadLine());
 
 
 Console.WriteLine("This Your Number: {0}", num);
+Console.ReadLine();

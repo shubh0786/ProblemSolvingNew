@@ -3,7 +3,7 @@
 Console.WriteLine("Please Enter your Number");
 int num = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Write the width");
+Console.WriteLine("please write the width");
 int wid = int.Parse(Console.ReadLine());
 
 for (int i = 1; i <= wid; i++)

@@ -10,7 +10,7 @@ for (int i = 1; i <= wid; i++)
 {
     for (int j = 1; j <= i; j++)
     {
-        Console.Write(num + " "  , " \n ");
+        Console.Write(num + " ");
     }
     Console.WriteLine();
    

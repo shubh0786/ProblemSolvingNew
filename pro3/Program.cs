@@ -24,6 +24,9 @@ namespace pro3
             letter2 = Convert.ToChar(Console.ReadLine());
 
             Console.WriteLine("{0} {1} {2}", letter2, letter1, letter);
+            Console.ReadLine();
+
         }
+       
     }
 }

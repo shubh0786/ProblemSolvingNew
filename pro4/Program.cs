@@ -10,6 +10,8 @@ namespace pro4
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Please enter cost");
         }
     }
 }

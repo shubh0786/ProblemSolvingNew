@@ -12,6 +12,7 @@ namespace pro4
         {
 
             Console.WriteLine("Please enter cost");
+            int cst = int.Parse(Console.ReadLine());
         }
     }
 }
